@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Viagens.Bff.Api.props" />
+</Project>
